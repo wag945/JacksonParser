@@ -1,0 +1,25 @@
+{
+	"id": 123,
+	"name": "John Smith",
+	"permanent": true,
+	"address": {
+		   "street": "Main Street",
+		   "city": "Philadelphia",
+		   "zipcode": 19102
+		   },
+		   "phoneNumbers": [
+		   		   123456,
+				   987654
+				   
+		   ],
+		   "role": "Developer",
+		   "cities": [
+		   	     "Philadelphia",
+			     "New York"
+			     ],
+		"properties": {
+			      "age": "25 years",
+			      "salary": "55k"
+			      }
+			      
+}
